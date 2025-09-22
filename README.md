@@ -31,7 +31,7 @@ Config & Secrets	.env file for API key management
 
 Clone the repository
 
-git clone https://github.com/your-username/resume-analyzer.git
+git clone https://github.com/sjyotika/Resume_analyzer.git
 cd resume-analyzer
 
 
